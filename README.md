@@ -16,13 +16,13 @@
 
 <div align="center">
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="lua logo" title="Lua" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="lua logo" title="Lua" draggable="false" onclick="return false;" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="java logo" title="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="java logo" title="Java" draggable="false" onclick="return false;" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="csharp logo" title="C#" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="csharp logo" title="C#" draggable="false" onclick="return false;" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="python logo" title="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="python logo" title="Python" draggable="false" onclick="return false;" />
   </span>
 </div>
 
@@ -30,11 +30,11 @@
 
 <div align="center">
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="html5 logo" title="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="html5 logo" title="HTML5" draggable="false" onclick="return false;" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="css3 logo" title="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="css3 logo" title="CSS3" draggable="false" onclick="return false;" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="javascript logo" title="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="javascript logo" title="JavaScript" draggable="false" onclick="return false;" />
   </span>
 </div>
 
@@ -42,13 +42,13 @@
 
 <div align="center">
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="bootstrap logo" title="Bootstrap" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="bootstrap logo" title="Bootstrap" draggable="false" onclick="return false;" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="jquery logo" title="jQuery" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="jquery logo" title="jQuery" draggable="false" onclick="return false;" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="vuejs logo" title="Vue.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="vuejs logo" title="Vue.js" draggable="false" onclick="return false;" />
     <img width="12" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" style="width:32px; height:32px;" alt="tailwindcss logo" title="Tailwind CSS" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="tailwindcss logo" title="Tailwind CSS" draggable="false" onclick="return false;" />
   </span>
 </div>
 

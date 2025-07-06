@@ -16,13 +16,13 @@
 
 <div align="center">
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="lua logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="lua logo" title="Lua" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="java logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="java logo" title="Java" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="csharp logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="csharp logo" title="C#" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="python logo" title="Python" />
   </span>
 </div>
 
@@ -30,11 +30,11 @@
 
 <div align="center">
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="html5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="html5 logo" title="HTML5" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="css3 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="css3 logo" title="CSS3" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="javascript logo" title="JavaScript" />
   </span>
 </div>
 
@@ -42,13 +42,13 @@
 
 <div align="center">
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="bootstrap logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="bootstrap logo" title="Bootstrap" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="jquery logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="jquery logo" title="jQuery" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="vuejs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32" height="32" style="width:32px; height:32px;" alt="vuejs logo" title="Vue.js" />
     <img width="12" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" style="width:32px; height:32px;" alt="tailwindcss logo" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" style="width:32px; height:32px;" alt="tailwindcss logo" title="Tailwind CSS" />
   </span>
 </div>
 

@@ -16,11 +16,11 @@
 
 <div align="center">
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="lua logo" title="Lua" draggable="false" onmousedown="event.preventDefault();" oncontextmenu="return false;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="csharp logo" title="C#" draggable="false" onmousedown="event.preventDefault();" oncontextmenu="return false;" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="java logo" title="Java" draggable="false" onmousedown="event.preventDefault();" oncontextmenu="return false;" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="csharp logo" title="C#" draggable="false" onmousedown="event.preventDefault();" oncontextmenu="return false;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="lua logo" title="Lua" draggable="false" onmousedown="event.preventDefault();" oncontextmenu="return false;" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" style="width:32px; height:32px; cursor: default;" alt="python logo" title="Python" draggable="false" onmousedown="event.preventDefault();" oncontextmenu="return false;" />
   </span>

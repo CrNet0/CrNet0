@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m Milton Carrilho, also known as CrNeto. I’ve been programming in Lua since 2015, starting out by creating mods for MTA:SA. I had a brief stint with Java, developing for Minecraft, MuOnline, and PointBlank, but it was in 2020 that I fully dove into the FiveM universe — where I truly found my place as a developer.<br><br>Since then, I’ve been working on custom servers, always focusing on performance, security, and immersion. Nowadays, I keep a steady study routine focused on front-end technologies like Vue.js, Tailwind CSS, and TypeScript, striving to create ever more modern and functional NUIs.<br><br>I’m currently a Software Engineering student, using theory to better organize and structure everything I’ve learned through hands-on experience over the years. Developing for FiveM has stopped being just a hobby — it’s become something that really set me on a promising path.</p>
+<p align="left">I’m currently a Software Engineering student, using theory to better organize and structure everything I’ve learned through hands-on experience over the years. Developing for FiveM has stopped being just a hobby — it’s become something that really set me on a promising path.</p>
 
 ###
 

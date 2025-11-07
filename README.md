@@ -1,5 +1,11 @@
 <h1 align="center">Hello World</h1>
 
+<h6>
+    Hi, I'm Milton Carrilho. I'm 26 years old and currently in my second year of Software Engineering.
+</h6>
+
+---
+
 <div align="center">
     <a href="https://discord.com/users/1028177514062950472" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="24" height="24" alt="Discord">
@@ -11,11 +17,6 @@
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="24" height="24" alt="Youtube">
     </a>
 </div>
-
----
-<p>
-    Hi, I'm Milton Carrilho. I'm 26 years old and currently in my second year of Software Engineering.
-</p>
 
 <p>
     I'm focused on becoming a Full Stack Developer. While I'm in my second year of Software Engineering, I've been coding since I was 15, primarily creating game mods and developing games. My focus now is channeling that deep experience into Full Stack Web Development.

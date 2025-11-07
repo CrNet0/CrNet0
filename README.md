@@ -24,7 +24,7 @@
 
 ---
 
-## My Skills
+## My Skills:
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5">

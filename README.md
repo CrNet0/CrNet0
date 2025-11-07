@@ -1,6 +1,6 @@
 <h1 align="center">Hello World</h1>
 <br>
-<div align="center">
+<!-- <div align="center">
     <a href="https://discord.com/users/1028177514062950472" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="24" height="24" alt="Discord">
     </a>
@@ -10,7 +10,7 @@
     <a href="https://www.youtube.com/@CrNeto33" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="24" height="24" alt="Youtube">
     </a>
-</div>
+</div> -->
 <br>
 <p>
     Hi, I'm Milton Carrilho. I'm 26 years old and currently in my second year of Software Engineering.

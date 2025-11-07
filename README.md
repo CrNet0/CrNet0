@@ -1,10 +1,8 @@
 <h1 align="center">Hello World</h1>
 
-<h6>
+<p>
     Hi, I'm Milton Carrilho. I'm 26 years old and currently in my second year of Software Engineering.
-</h6>
-
----
+</p>
 
 <div align="center">
     <a href="https://discord.com/users/1028177514062950472" target="_blank">
